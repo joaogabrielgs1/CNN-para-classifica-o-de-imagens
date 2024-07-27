@@ -3,8 +3,9 @@ Repositório desenvolvido para o trabalho da faculdade da matéria de Inteligên
 ## Objetivos
 Desenvolvemos duas Convolutional Neural Network (CNN) como parte de um projeto acadêmico, para classificar imagens de multiclasses. Utilizamos Python com Tensorflow para criar a arquitetura das cnns e treinamos elas através do Google Colab.
 
-##Datasets 
+## Datasets 
 Como tema para o trabalho foi escolhido um dataset para classificar carros esportivos e o outro dataset de doenças renais, ambos disponíveis no kaggle:
+<br>
 <a href="https://www.kaggle.com/datasets/riotulab/car-make-model-and-generation">
 	<img align="center" alt="Car Dataset" src="https://cdn-icons-png.flaticon.com/512/683/683092.png" width="50" height="50">
 </a>
@@ -12,6 +13,6 @@ Como tema para o trabalho foi escolhido um dataset para classificar carros espor
 	<img align="center" alt="Cancer Dataset" src="https://cdn-icons-png.flaticon.com/512/5570/5570758.png" width="50" height="50">
 </a> 
 
-##Resultados 
+## Resultados 
 
 Por último os resultados obtido:
