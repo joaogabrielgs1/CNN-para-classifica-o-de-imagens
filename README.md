@@ -14,5 +14,7 @@ Como tema para o trabalho foi escolhido um dataset para classificar carros espor
 </a> 
 
 ## Resultados 
-
 Por último os resultados obtido:
+<a href="https://github.com/joaogabrielgs1/CNN-para-classificao-de-imagens/tree/main/Resultados#readme">
+	<img align="center" alt="Material Usado" src="https://cdn-icons-png.flaticon.com/512/992/992848.png" width="50" height="50">
+</a>
